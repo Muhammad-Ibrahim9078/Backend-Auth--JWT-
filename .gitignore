@@ -1,2 +1,7 @@
 node_modules
 .env
+
+
+
+# .env Ignore words
+# PORT, MONGO_URL, JWT_SECRET
